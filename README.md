@@ -47,6 +47,10 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white&logoWidth=40)
+   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&logoWidth=40)
+   ![React](https://img.shields.io/badge/React%20-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=40)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=40)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2328B6DB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=40)
 
 <br>
 
