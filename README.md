@@ -16,11 +16,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- A passionate Self-taught Full-stack developer
+- Playing Warzone at spare time
+- Currently learning about AI and Kubernetes by myself
 - Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
