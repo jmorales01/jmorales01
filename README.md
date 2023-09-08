@@ -139,7 +139,7 @@
 
 <div align='center'>
 
-## <b>Bendiciones para ti...✨</b>
+## <b>Blessings for you...✨</b>
 
 </div>
 <br>
