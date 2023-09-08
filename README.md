@@ -33,24 +33,24 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Golang](https://img.shields.io/badge/Golang%20-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white&logoWidth=60)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoWidth=60)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&logoWidth=60)
+    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&logoWidth=60)
+    ![Golang](https://img.shields.io/badge/Golang%20-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&logoWidth=60)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white&logoWidth=50)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&logoWidth=50)
-   ![React](https://img.shields.io/badge/React%20-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=40)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=40)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2328B6DB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=40)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoWidth=60)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&logoWidth=60)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=60)
+   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white&logoWidth=60)
+   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&logoWidth=60)
+   ![React](https://img.shields.io/badge/React%20-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=60)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=60)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2328B6DB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=60)
 
 <br>
 
