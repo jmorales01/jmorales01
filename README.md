@@ -37,6 +37,7 @@
     ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Golang](https://img.shields.io/badge/Golang%20-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    [![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 
 <br>   
     
@@ -57,14 +58,13 @@
 
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%x316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     [![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+    [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
     
 <br>
 
 - **Cloud**:
 
-    [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
