@@ -38,6 +38,7 @@
     ![Golang](https://img.shields.io/badge/Golang%20-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     [![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>   
     
