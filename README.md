@@ -83,8 +83,10 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Excel](style=for-the-badge&logoColor=white)
-    ![Power BI](https://img.shields.io/badge/Power%20BI%20-%xF2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
+    ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logoColor=white)
+    ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logoColor=white)
+    ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%234271BA.svg?style=for-the-badge&logoColor=white)
+
   
 
 </p>
