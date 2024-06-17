@@ -83,7 +83,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Excel](https://img.shields.io/badge/Excel%20-%x217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+    ![Excel](style=for-the-badge&logoColor=white)
     ![Power BI](https://img.shields.io/badge/Power%20BI%20-%xF2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
   
 
