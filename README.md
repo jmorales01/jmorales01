@@ -18,7 +18,7 @@
 - A passionate Self-taught Full-stack developer
 - Playing Warzone at spare time
 - Currently learning about AI and Kubernetes by myself
-- Personal website [link](https://jmorales01.github.io/portafolio/)
+- Personal website [link](https://myportfolio-sigma-mocha.vercel.app/)
 - I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
