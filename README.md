@@ -129,7 +129,7 @@
 
 <li>
 <a href="https://linkedin.com/in/josemoralesv24" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  josemoralesv24-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  jose L. Morales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -137,7 +137,7 @@
 
 <li>
 <a href="https://twitter.com/JoseLuisMV18" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Jose_Morales24-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  @JoseLuisMV18-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
