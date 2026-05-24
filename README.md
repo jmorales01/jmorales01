@@ -107,12 +107,12 @@
 
 <div align="center">
 
-<a href="https://github.com/jmorales01/">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmorales01&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorales01&layout=compact&theme=tokyonight&hide_border=true" width="375"/>
+<!-- <a href="https://github.com/jmorales01/">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmorales01&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorales01&layout=compact&theme=dracula&hide_border=true" width="375"/>
 </a>
 
-<br><br>
+<br><br> -->
 
 <img src="https://streak-stats.demolab.com/?user=jmorales01&theme=tokyonight&hide_border=true&stroke=7A7ADB&ring=7A7ADB&fire=DD2727&currStreakLabel=7A7ADB&background=000000" width="450"/>
 
