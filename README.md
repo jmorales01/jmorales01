@@ -43,6 +43,7 @@
 <br> 
     
 - **Front-End Development**:
+
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,6 +75,7 @@
 <br>
 
 - **Softwares and Tools**:
+
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -106,10 +108,14 @@
 <div align="center">
 
 <a href="https://github.com/jmorales01/">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmorales01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorales01&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jmorales01&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorales01&layout=compact&theme=tokyonight&hide_border=true" width="375"/>
 </a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=jmorales01&theme=tokyonight&hide_border=true&stroke=7A7ADB&ring=7A7ADB&fire=DD2727&currStreakLabel=7A7ADB&background=000000" width="450"/>
+
 </div>
 
 <br>
@@ -148,7 +154,15 @@
 <img src="https://img.shields.io/badge/gmail:  joseluismoralesvega24@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<br>
+
+<li>
+<a href="https://wa.me/51982310245" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp:  %2B51%20982%20310%20245-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
+</a>
+</li>
+
 </ul>
 </div>
 
